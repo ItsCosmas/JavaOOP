@@ -1,4 +1,7 @@
-package com.cozyswagez;
+//This piece of code was for other experimental purposes 
+//Its not required fro this program
+
+/*package com.cozyswagez;
 
 public class Car {
     private int Doors;
@@ -23,3 +26,4 @@ public class Car {
         return this.model;
     }
 }
+*/
