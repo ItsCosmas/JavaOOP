@@ -17,10 +17,10 @@ public class Main {
 
 
         Account CosmasAccount = new Account();
-        CosmasAccount.setAccountNumber(34180695);
+        CosmasAccount.setAccountNumber(12345678);
         CosmasAccount.setCustomerName("Cosmas Gikunju");
-        CosmasAccount.setCustomerEmail("gikunjucosmas@gmail.com");
-        CosmasAccount.setCustomerPhone(254_710_542_971L);
+        CosmasAccount.setCustomerEmail("cosmas@email.com");
+        CosmasAccount.setCustomerPhone(254_720_000_0L);
 
         String CustomerName = CosmasAccount.getCustomerName();
         int CustomerAccNumber = CosmasAccount.getAccountNumber();
