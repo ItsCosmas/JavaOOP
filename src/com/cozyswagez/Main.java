@@ -32,7 +32,8 @@ public class Main {
 
             CosmasAccount.setAccountBalance(0d);
             //Deposit Cash
-            System.out.println("Enter amount of cash to deposit");
+            // .\r automatically goes to the next line
+            System.out.println("Enter amount of cash to deposit.\r");
             Double depositCash = input.nextDouble();
             System.out.println("Customer Details: \n" +"Name: "+ CustomerName + "\n" + "Email:" + CustomerEmail + " \n" + "Account Number: " +CustomerAccNumber +" \n" +"Phone: +"+ CustomerPhone);
             CosmasAccount.depositFunds(depositCash);
