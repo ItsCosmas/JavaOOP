@@ -1,5 +1,6 @@
 # JavaOOP
-This is a Sample Object Oriented Banking Management System that runs on Java Console
+#### This is a Sample Object Oriented Banking Management System that runs on Java Console
 
-This is just a sample project for learning purposes
-Will Make this better eventually
+#### Sample project for learning purposes
+#### User cannot withdraw more than What's in their account
+#### Minimun amount the Account can have after withdrawal is KSH.100
